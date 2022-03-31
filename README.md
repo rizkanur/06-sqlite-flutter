@@ -1,4 +1,4 @@
-# Jobsheet 5 Pemrograman Mobile (DATABASE SQLITE)
+# Jobsheet 6 Pemrograman Mobile (DATABASE SQLITE)
 
 Nama  : Rizka Nur Cahyani <br/>
 NIM   : 2031710065 <br/>
